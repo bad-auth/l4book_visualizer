@@ -2,6 +2,8 @@
 
 A web UI for visualizing Hyperliquid L4 (level 4) orderbook data. Connects to an L4 orderbook WebSocket server and renders a live heatmap and depth chart.
 
+![demo](https://github.com/user-attachments/assets/2dee8ee4-3a00-48d4-a68c-e4d70dcd71c7)
+
 ## Features
 
 - **Live WebSocket streaming** — Connects to an l4Book server, receives a snapshot, then applies incremental diffs
